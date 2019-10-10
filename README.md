@@ -13,5 +13,6 @@ If I was given more time I would have modified the code to implement the above m
 
 Team Preference
 
-Platform Team |
+Platform Team 
+
 Policy Team
